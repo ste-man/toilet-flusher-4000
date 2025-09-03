@@ -19,4 +19,4 @@ $(PROGRAM_NAME): $(BUILD_DIR)
 
 # Remove build directory with all built files
 #clean:
-#	rm -rf $(BUILD_DIR) 
+#	rm -rfI $(BUILD_DIR) 
